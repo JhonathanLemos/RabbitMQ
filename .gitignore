@@ -1,0 +1,4 @@
+# .gitignore
+
+# Ignore o diretório .vs (Visual Studio)
+.vs/
